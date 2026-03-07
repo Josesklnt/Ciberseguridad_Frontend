@@ -1,7 +1,6 @@
 # 🛡️ Secure Asset Fortress v6.0
 
 **Nombre Técnico:** `Secure-Gateway-Asset-Monitor.html`  
-**Autor:** [Tu Nombre/Usuario]  
 **Área:** Gestión de Activos Críticos / Ciberseguridad Frontend  
 
 ## 📖 Descripción del Proyecto
