@@ -24,6 +24,6 @@ Este script es un **Nodo de Monitoreo de Activos** diseñado para entornos donde
 | **Code Obfuscation** | Intelectual | Código transformado en un bloque ilegible para prevenir ingeniería inversa. |
 
 ## 🛠️ Instalación y Uso
-1. Clonar el repositorio: `git clone https://github.com/TU_USUARIO/Data-Analysis.git`
+1. Clonar el repositorio: `Ciberseguridad-Frontend.git`
 2. Abrir el archivo `Secure-Gateway-Asset-Monitor.html` en cualquier navegador moderno.
 3. Interactuar con los paneles de comando y observar la auditoría en tiempo real en el panel Sentinel.
