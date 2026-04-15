@@ -27,3 +27,9 @@ Este script es un **Nodo de Monitoreo de Activos** diseñado para entornos donde
 1. Clonar el repositorio: `Ciberseguridad-Frontend.git`
 2. Abrir el archivo `Secure-Gateway-Asset-Monitor.html` en cualquier navegador moderno.
 3. Interactuar con los paneles de comando y observar la auditoría en tiempo real en el panel Sentinel.
+o
+pasos:
+1. abre el html.
+2. en otra pestaña abre https://htmlpreview.github.io/
+3. copia el url del html que abriste en el paso 1, en donde dice "Enter URL of the HTML file to preview:" de la web que abriste en el paso 2.
+4. dale clic a "Preview".
